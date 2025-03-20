@@ -41,6 +41,8 @@ Importar la coleccion PostMan adjunta por correo
       API PUT para actualizar el el prodcuto
       El seervicio regresa el ID actualizado.
 
+Al ejecutar las APis se ejecutan lso Test, en el resultado existe una pestaña llamada Test ahi se ve el resultado de las pruebas
+
     - /api/prodcuts/{productId}
       http://localhost:8080/api/prodcuts/1
       API PUT para actualizar el el prodcuto
